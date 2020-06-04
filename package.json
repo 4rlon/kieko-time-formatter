@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeriousGuy888/time-convert.git"
+    "url": "git+https://github.com/CheatcodeArlon/kieko-time-formatter.git"
   },
   "keywords": [
     "time",
     "conversion",
-    "seconds converter"
+    "seconds converter",
+    "Kieko"
   ],
   "author": "Arlon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SeriousGuy888/time-convert/issues"
+    "url": "https://github.com/CheatcodeArlon/kieko-time-formatter/issues"
   },
-  "homepage": "https://github.com/SeriousGuy888/time-convert#readme"
+  "homepage": "https://github.com/CheatcodeArlon/kieko-time-formatter#readme"
 }
