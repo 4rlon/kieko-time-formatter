@@ -1,5 +1,5 @@
 # What is it?
- A NodeJS package for converting seconds to formatted time for Kieko!
+ A NodeJS package for converting seconds to formatted time for (Kieko)[https://discordapp.com/oauth2/authorize?client_id=706537104573857844&scope=bot&permissions=1043721303]!
  Time can be converted and returned in JSON format, in words, and more.
 
 # Intallation
@@ -8,7 +8,7 @@
 # How to Use
  ```js
   // Require the package
-  const timeFormatter = require("seconds-time-formatter");
+  const timeFormatter = require("kieko-time-formatter");
 
   console.log(
     timeFormatter.timeConvert({
@@ -27,7 +27,7 @@
  The amount of seconds you want to convert.
 
  ```js
-  const timeFormatter = require("seconds-time-formatter");
+  const timeFormatter = require("kieko-time-formatter");
 
   console.log(
     timeFormatter.timeConvert({
@@ -43,7 +43,7 @@
  returned the converted time. Defaults to "letters" if not specified.
 
  ```js
-  const timeFormatter = require("seconds-time-formatter");
+  const timeFormatter = require("kieko-time-formatter");
 
   console.log(
     timeFormatter.timeConvert({
