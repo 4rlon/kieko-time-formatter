@@ -1,9 +1,9 @@
 # What is it?
- A NodeJS package for converting seconds to formatted time!
+ A NodeJS package for converting seconds to formatted time for Kieko!
  Time can be converted and returned in JSON format, in words, and more.
 
 # Intallation
- `npm i seconds-time-formatter`
+ `npm i kieko-time-formatter`
 
 # How to Use
  ```js
