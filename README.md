@@ -1,3 +1,10 @@
+# WARNING: DON'T USE THIS
+
+
+
+
+
+
 # What is it?
  A NodeJS package for converting seconds to formatted time for [Kieko](https://discordapp.com/oauth2/authorize?client_id=706537104573857844&scope=bot&permissions=1043721303)!
  Time can be converted and returned in JSON format, in words, and more.
